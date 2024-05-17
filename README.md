@@ -9,7 +9,7 @@ The Online Auction System is a web-based platform that allows users to create au
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -39,11 +39,6 @@ The Online Auction System is a web-based platform that allows users to create au
   - Stripe or PayPal: Payment gateway API for secure payment processing.
 
 ## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/nchimunya-joseph/auction-marketplace
    ```
 
 2. Install the required dependencies:
